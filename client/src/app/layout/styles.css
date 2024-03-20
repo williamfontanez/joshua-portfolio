@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+}
+
+.footer{
+    width: auto;
+    height: 20vh;
+    background-color: #1976d2;
+}
+
+.landing-page{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.left-side{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+    height: 62.25vh;
+}
+
+.right-side{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+    height: 100vh;
+}
+
+.hero-image {
+    max-width: 50vw; /* Adjust the width as needed */
+    max-height: 100vh; /* Adjust the height as needed */
+    width: auto;
+    height: auto;
+  }
+  
+
